@@ -1,11 +1,3 @@
-/*Program: ProfitDoublingCalculator
-
-Purpose: Calculates and displays the company's profit for years 1 to 4,
-assuming the profit doubles each year starting from an initial value.
-
-Author: Karol Samayoa
-Date: 5/17/2025 */
-
 
 /*
 Goal: Declare variables of the appropriate type.Assign values to variables
