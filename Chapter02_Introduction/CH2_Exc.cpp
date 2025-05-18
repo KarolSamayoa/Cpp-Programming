@@ -1,7 +1,3 @@
-//Chapter 2 - Introduction to C++
-//Chapter Excersices
-//Karol Samayoa
-
 #include <iostream>
 #include <string>
 using namespace std;
