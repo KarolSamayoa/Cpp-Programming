@@ -1,7 +1,3 @@
-//Chapter 2 - Introduction to C++
-//Chapter Excersices 2
-//Karol Samayoa
-
 /*
 Goal: Declare variables of the appropriate type. Assign values to variables. 
 Perform calculations with variables. Output the final result.
