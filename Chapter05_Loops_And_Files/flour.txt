@@ -1,0 +1,6 @@
+flour 250
+salt 10
+tomato 300
+flour 50
+salt 200
+Total amount of flour: 300
